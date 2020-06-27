@@ -3,7 +3,7 @@ import random
 
 pygame.init()
 
-player_image = pygame.image.load('dvdlogo.png')
+player_image = pygame.image.load('dvdlogo2.png')
 player_scaled_image = pygame.transform.scale(player_image, (200, 120))
 
 
